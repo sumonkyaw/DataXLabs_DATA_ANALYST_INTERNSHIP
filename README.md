@@ -1,2 +1,30 @@
-# DataXLabs_DATA_ANALYST_INTERNSHIP
-Tasks assigment for DataXLabs data analyst internship
+Data Analyst Intenship Task
+Overview
+This repository contains Task assignments from Data Analyst Intenship.
+
+Table of Contents
+Assignments Overview
+Technologies Used
+Directory Structure
+Task Details
+
+
+Technologies Used
+Tools:
+Excel
+
+
+Directory Structure
+The repository is organized as follows:
+├── Task_1/            # Data Cleaning and Preprocessing
+    ├── Task_1/        #
+    └── README.md      # Readme file for task1
+├── Task_2/             
+    ├── Task_1/ 
+    └── README.md 
+└── README.md          # This readme file
+
+Task Details
+Task 1: Data Cleaning and Preprocessing
+
+
