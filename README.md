@@ -16,12 +16,9 @@ Excel
 
 Directory Structure
 The repository is organized as follows:
+│
 ├── Task_1/            # Data Cleaning and Preprocessing
-    ├── Task_1/        #
-    └── README.md      # Readme file for task1
-├── Task_2/             
-    ├── Task_1/ 
-    └── README.md 
+│   └── README.md      # Readme file for task1  
 └── README.md          # This readme file
 
 Task Details
