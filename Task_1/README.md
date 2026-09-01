@@ -15,7 +15,7 @@ The objective of this task was to clean and preprocess a raw dataset containing 
 6. Handled missing values based on the characteristics of each column.
 7. Standardized text values and removed unnecessary spaces.
 8. Standardized categorical values such as education and marital_status.
-9. Converted date columns to dd-mm-yyyy format.
+9. Converted dt_customer columns to dd/mm/yyyy format.
 10. Reviewed invalid values and potential outliers.
 11. Saved cleaned dataset as cleaned_dataset.csv.
 
