@@ -29,7 +29,7 @@ The repository is organized as follows:
 ```
 
 ## **Task Details**
-Task 1: Data Cleaning and Preprocessing
+Task 1: Data Cleaning and Preprocessing 
+Clean and preprocess a raw dataset containing common data-quality issues such as missing values, duplicate records, inconsistent text values, inconsistent date formats, and incorrect data types.
 
-
-Task 1: Data Visualization and Storytelling
+## **Task 1: Data Visualization and Storytelling ## **
