@@ -11,8 +11,8 @@ This repository contains Task assignments from Data Analyst Internship.
 
 ## **Technologies Used**
 Tools:
-Excel
-Powerbi
+* Excel
+* Powerbi
 
 
 ## **Directory Structure**
@@ -29,7 +29,8 @@ The repository is organized as follows:
 ```
 
 ## **Task Details**
-Task 1: Data Cleaning and Preprocessing 
-Clean and preprocess a raw dataset containing common data-quality issues such as missing values, duplicate records, inconsistent text values, inconsistent date formats, and incorrect data types.
+1. Task 1: Data Cleaning and Preprocessing:
+  * Clean and preprocess a raw dataset containing common data-quality issues such as missing values, duplicate records, inconsistent text values, inconsistent date formats, and incorrect data types.
 
-## **Task 1: Data Visualization and Storytelling ## **
+2.  Task 2: Data Visualization and Storytelling:
+  * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
