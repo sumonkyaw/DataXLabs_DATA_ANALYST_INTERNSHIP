@@ -1,4 +1,5 @@
-<img width="662" height="471" alt="Sales Overview" src="https://github.com/user-attachments/assets/9bcfdd46-0e2a-43e3-8459-4780e4ea41f4" />
+<img width="661" height="467" alt="image" src="https://github.com/user-attachments/assets/d1b1577b-5d18-4004-b72c-9b326dd32b5c" />
+
 
 <img width="656" height="469" alt="Sales   Forecasting" src="https://github.com/user-attachments/assets/3ab75196-9a2a-47ed-a63c-f661fd5cff5e" />
 
