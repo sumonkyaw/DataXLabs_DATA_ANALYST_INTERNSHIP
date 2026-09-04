@@ -39,5 +39,5 @@ The repository is organized as follows:
   * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
 
 3.  Task 3: Interactive dashboard for business stakeholders:
-  * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
+  * An interactive Power BI dashboard providing for business stakeholders to business decisions of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
 
