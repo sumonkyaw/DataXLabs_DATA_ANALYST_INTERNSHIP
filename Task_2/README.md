@@ -1,3 +1,7 @@
+
+
+<img width="1006" height="577" alt="Superstore_Analysis_Dashboard" src="https://github.com/user-attachments/assets/ea1d6e03-30dd-46c4-ac3e-005b69392a60" />
+
 # Superstore Sales Data Analysis & Sales Forecasting
 
 An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
