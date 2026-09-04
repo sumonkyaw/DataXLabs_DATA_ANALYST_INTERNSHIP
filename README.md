@@ -24,6 +24,9 @@ The repository is organized as follows:
 │   └── README.md      # Readme file for task1
 ├── Task_2/            # Data Visualization and Storytelling
 │   └── Resources      # All resources file and folder
+│   └── README.md      # Readme file for task1
+├── Task_3/            # Interactive dashboard for business stakeholders
+│   └── Resources      # All resources file and folder
 │   └── README.md      # Readme file for task1  
 └── README.md          # This readme file
 ```
@@ -34,3 +37,7 @@ The repository is organized as follows:
 
 2.  Task 2: Data Visualization and Storytelling:
   * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
+
+3.  Task 3: Interactive dashboard for business stakeholders:
+  * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
+
