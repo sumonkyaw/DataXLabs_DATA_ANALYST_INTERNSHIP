@@ -7,7 +7,7 @@
 
 # Superstore Sales & Forecasting Dashboard
 
-An interactive Power BI dashboard providing an end-to-end analysis of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
+An interactive Power BI dashboard providing for business stakeholders to business decisions of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
 
 ---
 
