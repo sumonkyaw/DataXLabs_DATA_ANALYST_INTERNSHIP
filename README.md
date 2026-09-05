@@ -13,6 +13,7 @@ This repository contains Task assignments from Data Analyst Internship.
 Tools:
 * Excel
 * Powerbi
+* PostgreSQL
 
 
 ## **Directory Structure**
