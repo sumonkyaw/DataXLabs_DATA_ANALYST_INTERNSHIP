@@ -27,7 +27,10 @@ The repository is organized as follows:
 │   └── README.md      # Readme file for task1
 ├── Task_3/            # Interactive dashboard for business stakeholders
 │   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task1  
+│   └── README.md      # Readme file for task1
+├── Task_4/            # SQL for Data Analysis
+│   └── Resources      # All resources file and folder
+│   └── README.md      # Readme file for task1 
 └── README.md          # This readme file
 ```
 
@@ -40,4 +43,7 @@ The repository is organized as follows:
 
 3.  Task 3: Interactive dashboard for business stakeholders:
   * An interactive Power BI dashboard providing for business stakeholders to business decisions of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
+
+4.  Task 4: SQL for Data Analysis :
+ * build a relational database schema for an e-commerce platform and run data analytics queries to extract key business insights regarding customer demographics, sales trends, and product performance.
 
