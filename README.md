@@ -1,57 +1,79 @@
-# **Data Analyst Internship Task**
+# 📊 Data Analyst Internship Portfolio
 
-## **Overview**
-This repository contains Task assignments from Data Analyst Internship.
+An end-to-end repository documenting data analysis projects across data cleaning, relational database querying, interactive business intelligence, and exploratory data analysis.
 
-## **Table of Contents**
-1. [Technologies Used](#technologies-used)
-2. [Directory Structure](#directory-structure)
-3. [Task Summary](#Task-details)
+---
 
+## 📌 Table of Contents
+* [Technologies Used](#-technologies-used)
+* [Repository Structure](#-repository-structure)
+* [Task Details & Summary](#-task-details--summary)
 
-## **Technologies Used**
-Tools:
-* Excel
-* Powerbi
-* PostgreSQL
-* Python (Pandas, Matplotlib, Seaborn), google colab
+---
 
+## 🛠️ Technologies Used
 
-## **Directory Structure**
-The repository is organized as follows:
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Data Processing & EDA** | Python (Pandas, NumPy, Matplotlib, Seaborn), Google Colab, Excel |
+| **Database Management** | PostgreSQL, Relational Schema Design, Complex SQL Queries |
+| **Business Intelligence** | Power BI (DAX, Interactive Dashboards, Predictive Analytics) |
+
+---
+
+## 📁 Repository Structure
+
+```text
+├── Task_1/             # Data Cleaning and Preprocessing
+│   ├── Resources/      # Raw/cleaned datasets and supporting assets
+│   └── README.md       # Task 1 documentation
+├── Task_2/             # Data Visualization and Storytelling
+│   ├── Resources/      # Power BI dashboards and analysis files
+│   └── README.md       # Task 2 documentation
+├── Task_3/             # Interactive Dashboard for Stakeholders
+│   ├── Resources/      # Power BI reports and data models
+│   └── README.md       # Task 3 documentation
+├── Task_4/             # SQL for Data Analysis
+│   ├── Resources/      # DDL schema scripts, CSV imports, SQL queries
+│   └── README.md       # Task 4 documentation
+├── Task_5/             # Exploratory Data Analysis (EDA)
+│   ├── Resources/      # Jupyter notebooks and visual plots
+│   └── README.md       # Task 5 documentation
+└── README.md           # Main portfolio overview guide
+
 ```
-│
-├── Task_1/            # Data Cleaning and Preprocessing
-│   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task1
-├── Task_2/            # Data Visualization and Storytelling
-│   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task2
-├── Task_3/            # Interactive dashboard for business stakeholders
-│   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task3
-├── Task_4/            # SQL for Data Analysis
-│   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task4
-├── Task_5/            # Exploratory Data Analysis (EDA)
-│   └── Resources      # All resources file and folder
-│   └── README.md      # Readme file for task5
-└── README.md          # This readme file
-```
+---
 
-## **Task Details**
-1. Task 1: Data Cleaning and Preprocessing
-  * Clean and preprocess a raw dataset containing common data-quality issues such as missing values, duplicate records, inconsistent text values, inconsistent date formats, and incorrect data types.
+## 📝 Task Details & Summary
 
-2.  Task 2: Data Visualization and Storytelling
-  * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
+### 🧹 Task 1: Data Cleaning and Preprocessing
+* **Objective:** Audit and clean a raw dataset containing missing values, duplicate records, inconsistent text formats, improper date structures, and incorrect data types.
+* **Key Deliverables:** Standardized column naming conventions, handled missing entries via imputation and filtering, removed duplicate records, and converted data
+ types to produce a clean, ready-to-analyze dataset.
 
-3.  Task 3: Interactive dashboard for business stakeholders
-  * An interactive Power BI dashboard providing for business stakeholders to business decisions of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
+---
 
-4.  Task 4: SQL for Data Analysis
- * build a relational database schema for an e-commerce platform and run data analytics queries to extract key business insights regarding customer demographics, sales trends, and product performance.
+### 📈 Task 2: Data Visualization and Storytelling
+* **Objective:** Build an interactive Power BI dashboard to analyze historical retail sales performance and deliver data-driven business storytelling.
+* **Key Deliverables:** Performed multi-level root-cause driver analyses, mapped sales trends, and generated predictive time-series sales forecasts with confidence bounds.
 
-5.  Task 5: Exploratory Data Analysis (EDA)
- * Exploratory Data Analysis (EDA) project task is to perform statistical and visual data exploration on the Superstore Sales dataset to uncover revenue drivers, analyze distribution behaviors, detect operational anomalies, and extract actionable commercial insights.
+---
+
+### 📊 Task 3: Interactive Dashboard for Business Stakeholders
+* **Objective:** Create an executive-facing Power BI dashboard evaluating Superstore performance across customer segments, regions, and product categories.
+* **Key Deliverables:** Integrated top-level KPI cards, customer segmentation breakdowns, regional drill-down decomposition trees, interactive slicers, and sales projections.
+
+---
+
+### 🗄️ Task 4: SQL for Data Analysis
+* **Objective:** Model a relational database schema for an e-commerce platform in PostgreSQL and execute analytical queries.
+* **Key Deliverables:** Constructed relational tables (`customers`, `orders`, `products`, `order_items`), executed multi-table `JOIN` operations, subqueries, aggregate metrics, and optimized queries with index structures.
+
+---
+
+### 🔍 Task 5: Exploratory Data Analysis (EDA)
+* **Objective:** Perform visual and statistical data exploration on the Superstore Sales dataset to extract commercial growth insights and detect operational risks.
+* **Key Deliverables:** Evaluated distribution skewness, quantified profit margin erosion from high discount rates, identified enterprise sales outliers using IQR bounds, and formulated actionable business recommendations.
+
+
 
