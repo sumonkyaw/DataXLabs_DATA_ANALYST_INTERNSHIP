@@ -6,7 +6,7 @@ This repository contains Task assignments from Data Analyst Internship.
 ## **Table of Contents**
 1. [Technologies Used](#technologies-used)
 2. [Directory Structure](#directory-structure)
-3. [Task Details](#Task-details)
+3. [Task Summary](#Task-details)
 
 
 ## **Technologies Used**
@@ -14,7 +14,7 @@ Tools:
 * Excel
 * Powerbi
 * PostgreSQL
-* Python (Pandas, Matplotlib, Seaborn), colab
+* Python (Pandas, Matplotlib, Seaborn), google colab
 
 
 ## **Directory Structure**
@@ -52,6 +52,6 @@ The repository is organized as follows:
 4.  Task 4: SQL for Data Analysis
  * build a relational database schema for an e-commerce platform and run data analytics queries to extract key business insights regarding customer demographics, sales trends, and product performance.
 
-4.  Task 5: Exploratory Data Analysis (EDA)
- * The primary objective of this task is to perform statistical and visual data exploration on the Superstore Sales dataset to uncover revenue drivers, analyze distribution behaviors, detect operational anomalies, and extract actionable commercial insights.
+5.  Task 5: Exploratory Data Analysis (EDA)
+ * Exploratory Data Analysis (EDA) project task is to perform statistical and visual data exploration on the Superstore Sales dataset to uncover revenue drivers, analyze distribution behaviors, detect operational anomalies, and extract actionable commercial insights.
 
