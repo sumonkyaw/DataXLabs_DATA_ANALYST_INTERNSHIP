@@ -14,6 +14,7 @@ Tools:
 * Excel
 * Powerbi
 * PostgreSQL
+* Python (Pandas, Matplotlib, Seaborn), colab
 
 
 ## **Directory Structure**
@@ -32,25 +33,25 @@ The repository is organized as follows:
 ├── Task_4/            # SQL for Data Analysis
 │   └── Resources      # All resources file and folder
 │   └── README.md      # Readme file for task4
-├── Task_5/            # SQL for Data Analysis
+├── Task_5/            # Exploratory Data Analysis (EDA)
 │   └── Resources      # All resources file and folder
 │   └── README.md      # Readme file for task5
 └── README.md          # This readme file
 ```
 
 ## **Task Details**
-1. Task 1: Data Cleaning and Preprocessing:
+1. Task 1: Data Cleaning and Preprocessing
   * Clean and preprocess a raw dataset containing common data-quality issues such as missing values, duplicate records, inconsistent text values, inconsistent date formats, and incorrect data types.
 
-2.  Task 2: Data Visualization and Storytelling:
+2.  Task 2: Data Visualization and Storytelling
   * An interactive Power BI dashboard designed to analyze historical retail sales performance, perform multi-level root-cause driver analyses, and forecast sales trajectories using predictive analytics.
 
-3.  Task 3: Interactive dashboard for business stakeholders:
+3.  Task 3: Interactive dashboard for business stakeholders
   * An interactive Power BI dashboard providing for business stakeholders to business decisions of Superstore sales performance, customer segmentation, regional metrics, and predictive sales forecasting.
 
-4.  Task 4: SQL for Data Analysis :
+4.  Task 4: SQL for Data Analysis
  * build a relational database schema for an e-commerce platform and run data analytics queries to extract key business insights regarding customer demographics, sales trends, and product performance.
 
-4.  Task 5: SQL for Data Analysis :
- * build a relational database schema for an e-commerce platform and run data analytics queries to extract key business insights regarding customer demographics, sales trends, and product performance.
+4.  Task 5: Exploratory Data Analysis (EDA)
+ * The primary objective of this task is to perform statistical and visual data exploration on the Superstore Sales dataset to uncover revenue drivers, analyze distribution behaviors, detect operational anomalies, and extract actionable commercial insights.
 
