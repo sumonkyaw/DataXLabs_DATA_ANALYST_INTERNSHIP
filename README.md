@@ -37,8 +37,11 @@ An end-to-end repository documenting data analysis projects across data cleaning
 │   ├── Resources/      # DDL schema scripts, CSV imports, SQL queries
 │   └── README.md       # Task 4 documentation
 ├── Task_5/             # Exploratory Data Analysis (EDA)
-│   ├── Resources/      # Jupyter notebooks and visual plots
+│   ├── Resources/      # Googlecolab and visual plots
 │   └── README.md       # Task 5 documentation
+├── Task_6/             # 
+│   ├── Resources/      # CSV imports, SQL queries
+│   └── README.md       # Task 6 documentation
 └── README.md           # Main portfolio overview guide
 
 ```
@@ -71,9 +74,13 @@ An end-to-end repository documenting data analysis projects across data cleaning
 
 ---
 
-### 🔍 Task 5: Exploratory Data Analysis (EDA)
+### 📊 Task 5: Exploratory Data Analysis (EDA)
 * **Objective:** Perform visual and statistical data exploration on the Superstore Sales dataset to extract commercial growth insights and detect operational risks.
 * **Key Deliverables:** Evaluated distribution skewness, quantified profit margin erosion from high discount rates, identified enterprise sales outliers using IQR bounds, and formulated actionable business recommendations.
 
+---
 
+### 📈  Task 6: Sales Trend Analysis Using Aggregations
+* **Objective:** Analyze sales performance over time using PostgreSQL aggregation techniques. The analysis focuses on monthly revenue, order volume, sales trends, and identifying the highest-performing sales months.
+* **Key Deliverables:** Calculating monthly revenue and order volume, analyzing sales trends by year and month, evaluating sales performance for specific time periods, and identifying the top three months with the highest sales revenue using PostgreSQL aggregation and sorting techniques.
 
