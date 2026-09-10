@@ -37,11 +37,14 @@ An end-to-end repository documenting data analysis projects across data cleaning
 │   ├── Resources/      # DDL schema scripts, CSV imports, SQL queries
 │   └── README.md       # Task 4 documentation
 ├── Task_5/             # Exploratory Data Analysis (EDA)
-│   ├── Resources/      # Googlecolab and visual plots
+│   ├── Resources/      # execution script and visual plots
 │   └── README.md       # Task 5 documentation
-├── Task_6/             # 
+├── Task_6/             # Sales Trend Analysis Using Aggregations
 │   ├── Resources/      # CSV imports, SQL queries
 │   └── README.md       # Task 6 documentation
+├── Task_7/             # Sales Summary from SQLite Database using Python
+│   ├── Resources/      # CSV imports, execution script, Generated SQLite db file, Visual bar chart output
+│   └── README.md       # Task 7 documentation
 └── README.md           # Main portfolio overview guide
 
 ```
@@ -84,3 +87,10 @@ An end-to-end repository documenting data analysis projects across data cleaning
 * **Objective:** Analyze sales performance over time using PostgreSQL aggregation techniques. The analysis focuses on monthly revenue, order volume, sales trends, and identifying the highest-performing sales months.
 * **Key Deliverables:** Calculating monthly revenue and order volume, analyzing sales trends by year and month, evaluating sales performance for specific time periods, and identifying the top three months with the highest sales revenue using PostgreSQL aggregation and sorting techniques.
 
+### 📈  Task 7: Sales Summary from SQLite Database using Python
+* **Objective:** Demonstrates practical integration between Python and SQL workflow that loads transactional sales data into a lightweight, serverless SQLite database, extracts aggregated product performance metrics using standard SQL queries, and visualizes revenue trends with Matplotlib.
+* **Key Deliverables:**
+   * **`sales_data.db`**: An embedded SQLite database file storing the `sales` table.
+   * **`sql_inside_python.py`**: A Python script that connects to the database, executes aggregation queries, and generates chart outputs.
+   * **`sales_chart.png`**: A saved visual bar chart rendering the total revenue generated per product.
+ 
