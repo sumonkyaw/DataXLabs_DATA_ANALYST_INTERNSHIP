@@ -24,11 +24,11 @@ This project demonstrates practical integration between SQL and Python without n
 
 ## 🚀 Execution Steps
 
-  1. Connect to / create sales_data.db.
-  2. Populate the database table sales from Sales.csv.
-  3. Run the aggregation query to calculate total quantity sold and overall revenue.
-  4. Output summary tables directly in the terminal.
-  5. Generate and save sales_chart.png in the directory.
+1. **Database Setup:** Connect to or initialize the `sales_data.db` SQLite database file.
+2. **Data Ingestion:** Load transactional records from `Sales.csv` and populate the `sales` table.
+3. **Analytics Execution:** Execute the SQL aggregation query to calculate total unit volume sold and total revenue per product line.
+4. **Console Output:** Print the calculated sales summary DataFrame directly to the terminal.
+5. **Visualization:** Plot and save the total revenue bar chart as `sales_chart.png`
 
 ---
 
