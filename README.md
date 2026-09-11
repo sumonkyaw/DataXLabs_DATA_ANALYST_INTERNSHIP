@@ -45,6 +45,9 @@ An end-to-end repository documenting data analysis projects across data cleaning
 ├── Task_7/             # Sales Summary from SQLite Database using Python
 │   ├── Resources/      # CSV imports, execution script, Generated SQLite db file, Visual bar chart output
 │   └── README.md       # Task 7 documentation
+├── Task_8/             # Simple Sales Dashboard Design
+│   ├── Resources/      # CSV imports, Power BI dashboards, Key Inshight file and Dashboard Design PDF file
+│   └── README.md       # Task 8 documentation
 └── README.md           # Main portfolio overview guide
 
 ```
@@ -93,4 +96,7 @@ An end-to-end repository documenting data analysis projects across data cleaning
    * **`sales_data.db`**: An embedded SQLite database file storing the `sales` table.
    * **`sql_inside_python.py`**: A Python script that connects to the database, executes aggregation queries, and generates chart outputs.
    * **`sales_chart.png`**: A saved visual bar chart rendering the total revenue generated per product.
- 
+
+### 📊 Task 8: Simple Sales Dashboard Design
+* **Objective:** The objective of this task is to create a simple and interactive sales dashboard using Power BI to analyze sales performance across categories, regions, months, and quarters. The dashboard is designed to present key business information in a clear and user-friendly format.
+* **Key Deliverables:**  Interactive Power BI sales dashboard integrated top-level KPI cards,  sales trend analysis by month and quarter, regional sales comparison, category-level sales analysis, geographic sales visualization andd business insights based on dashboard analysis.
