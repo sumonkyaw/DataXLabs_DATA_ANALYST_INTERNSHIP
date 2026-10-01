@@ -111,7 +111,7 @@ plt.show()
 
 # No-Shows by Age
 
-df['age_group']= pd.cut(df['age'], bins=[0,18,30,45,60,75,100],
+df['age_group']= pd.cut(df['age'], bins=[0,17,30,45,60,75,100],
                         labels= [
                             'Under 18',
                             '18-30',
